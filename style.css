@@ -157,7 +157,7 @@ p{
   span{
     color: white;
   }
-  @media (max-width:428px){
+  @media (max-width:528px){
     body{
         /* width: 100%; */
         background-image: url('./images/bg-mobile.png');
